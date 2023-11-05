@@ -85,6 +85,6 @@ Tech Mavericks
 
 ### Sample Checklist for Syntax Example
 
-- [✅] Presentation complete and linked
-- [✅] Video pitch recorded and linked
+- [✅] Presentation complete and linked - https://docs.google.com/presentation/d/1M5imxJcsOV3_7N2NUwZBMvUc5atXj0NfDhF1XlRBrpw/edit?usp=sharing
+- [✅] Video pitch recorded and linked - https://youtu.be/mslZO_Itvjk?si=c7V03Vabluq1KHVT
 - [✅] Code merged to main branch
