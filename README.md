@@ -48,7 +48,7 @@ Example:
 
 - Asha Hopkins - A26FD72
 - Arun Giri - C6KP972
-- Aayush Bhatta
+- Aayush Bhatta - M47PN60
 - Ajay Pokharel - H61HL56
 - Trenton Moore - B6MW978
 
